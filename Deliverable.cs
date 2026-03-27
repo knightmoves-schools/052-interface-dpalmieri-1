@@ -3,5 +3,5 @@
 // Add your code here
 public interface Deliverable
 {
-    public void Deliver(string address);
+    public bool Deliver(string address);
 }
